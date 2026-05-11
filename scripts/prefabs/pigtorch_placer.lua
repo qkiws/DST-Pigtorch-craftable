@@ -1,0 +1,1 @@
+return MakePlacer("pigtorch_placer", "pigtorch", "pigtorch", "idle")
